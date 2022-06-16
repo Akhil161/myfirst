@@ -1,0 +1,176 @@
+.subheader{
+    background-color: #232f3e;
+    padding: 8px 15px;
+    display: flex;
+    height: 40px;
+}
+
+.a{
+    height: 100%;
+    width: 30px;
+    margin-left: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all{
+    color: white;
+  font-weight: 500;
+}
+
+.b{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.best{
+    color: white;
+  font-weight: 500;
+}
+
+.c{
+    height: 100%;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile{
+    color: white;
+  font-weight: 500;
+}
+
+.d{
+    height: 100%;
+    width: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customer{
+    color: white;
+  font-weight: 500;
+}
+
+.e{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.today{
+    color: white;
+  font-weight: 500;
+}
+
+.f{
+    height: 100%;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fashion{
+    color: white;
+  font-weight: 500;
+}
+
+.g{
+    height: 100%;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.electronic{
+    color: white;
+  font-weight: 500;
+}
+
+.h{
+    height: 100%;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prime{
+    color: white;
+  font-weight: 500;
+}
+
+.i{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pay{
+    color: white;
+  font-weight: 500;
+}
+
+.j{
+    height: 100%;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home{
+    color: white;
+  font-weight: 500;
+}
+
+.k{
+    height: 100%;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new{
+    color: white;
+  font-weight: 500;
+}
+
+.l{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.computer{
+    color: white;
+  font-weight: 500;
+}
+
+.m{
+    height: 100%;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amazon{
+    color: white;
+  font-weight: 500;
+}
